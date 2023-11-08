@@ -1,3 +1,8 @@
+```
+NAME: S.JAIGANESH
+REGISTER NO: 212222240037
+```
+
 # Experiment-08- Encoders-and-decoders 
 
 ### AIM: 
@@ -87,8 +92,8 @@ End the module.
 ```
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: ANANDHAMOORTHY.K
-RegisterNumber: 212222100004
+Developed by: S.JAIGANESH
+RegisterNumber: 212222240037
 */
 i.)For Encoder:
 module enc(a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
